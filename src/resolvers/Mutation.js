@@ -33,23 +33,8 @@ async function signup(parent, args, context, info) {
       user,
     }
   }
-  // ****************************************************
-// **************POST*****************************
-// ************************************************
 
-// async function post(parent, args, context, info) {
-//   const { userId } = context;
-
-//   return await context.prisma.link.create({
-//     data: {
-//       url: args.url,
-//       description: args.description,
-//       postedBy: { connect: { id: userId } },
-//     }
-//   })
-// }
-
-//*************************************
+//********************************************
 // ************************Delete *************/   
 async function deleteUser(parent,args,context,info) {
   const {userId}=context;
@@ -63,7 +48,7 @@ async function deleteUser(parent,args,context,info) {
     }
     )}
   }
-//******************************************
+//**************************************************
 // ************************update user *************/   
 
 
