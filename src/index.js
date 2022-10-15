@@ -4,29 +4,14 @@ const path = require('path');
 const { PrismaClient } = require('@prisma/client')
 const prisma = new PrismaClient()
 const { getUserId } = require('./utils');
-const Query = require('./resolvers/Query')
 const Mutation = require('./resolvers/Mutation')
-const User = require('./resolvers/User')
-const Link = require('./resolvers/Link')
 
-
-// ****************************************************
-// **************Links*****************************
-// ************************************************
-let links = [{
-    id: 'link-0',
-    url: 'mohan.ssharma2017@gmail.com',
-    description: 'Project for Bird Soft'
-  }]
 
 // ****************************************************
 // **************Resolvers*****************************
 // ************************************************
 const resolvers = {
-    Query,
     Mutation,
-    User,
-    Link
   }
 
 // ****************************************************
