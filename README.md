@@ -30,6 +30,8 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+check the DATABASE_URL in .env file
+
 
 ````
 
