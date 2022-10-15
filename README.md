@@ -87,6 +87,8 @@ provide the Token in bottom area as shown
 
 4. Delete A user 
 
+<img width="1440" alt="Screenshot 2022-10-15 at 12 02 42 PM" src="https://user-images.githubusercontent.com/77909856/195973532-5da5edf2-d32b-4bcf-9e7a-8d921119c891.png">
+
 
 
 
