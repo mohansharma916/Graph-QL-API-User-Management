@@ -68,7 +68,8 @@ check the DATABASE_URL in .env file
  1. Cretae a User
  
  
- <img width="1440" alt="Screenshot 2022-10-15 at 12 02 42 PM" src="https://user-images.githubusercontent.com/77909856/195973041-9a47ca8e-0208-4f69-92e2-c794a10a0a0b.png">
+<img width="1437" alt="Screenshot 2022-10-15 at 12 06 35 PM" src="https://user-images.githubusercontent.com/77909856/195973067-c60c364b-8e93-419c-8040-d52dd8681dfc.png">
+
 
  
  
