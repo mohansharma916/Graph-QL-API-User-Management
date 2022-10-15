@@ -92,7 +92,6 @@ async function updateUser(parent,args,context,info) {
   module.exports = {
     signup,
     login,
-    post,
     deleteUser,
     updateUser
   }
