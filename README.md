@@ -78,4 +78,16 @@ check the DATABASE_URL in .env file
 
 copy the token code 
  
+3.User Can Update his profile details
+
+provide the Token in bottom area as shown
+
+<img width="1436" alt="Screenshot 2022-10-15 at 12 18 48 PM" src="https://user-images.githubusercontent.com/77909856/195973446-83704335-1646-466d-9656-bf64a42dc2e9.png">
+
+
+4. Delete A user 
+
+
+
+
  
