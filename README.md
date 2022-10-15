@@ -71,5 +71,10 @@ check the DATABASE_URL in .env file
 <img width="1437" alt="Screenshot 2022-10-15 at 12 06 35 PM" src="https://user-images.githubusercontent.com/77909856/195973067-c60c364b-8e93-419c-8040-d52dd8681dfc.png">
 
 
+2. Login User
+
+<img width="1432" alt="Screenshot 2022-10-15 at 12 09 44 PM" src="https://user-images.githubusercontent.com/77909856/195973147-e6ccfcb8-beb6-4656-b7ce-e19a2b67b8ca.png">
+
+copy the token code 
  
  
