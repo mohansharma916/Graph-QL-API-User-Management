@@ -43,6 +43,8 @@ check the DATABASE_URL in .env file
  
  DATABASE_URL="mysql://root:Mohan@1207@localhost:3306/db_test?schema=public"
  
+ ```
+ 
  dont forget to change your database details
  
  
@@ -66,6 +68,7 @@ check the DATABASE_URL in .env file
  1. Cretae a User
  
  
- 
+ <img width="1440" alt="Screenshot 2022-10-15 at 12 02 42 PM" src="https://user-images.githubusercontent.com/77909856/195973041-9a47ca8e-0208-4f69-92e2-c794a10a0a0b.png">
+
  
  
