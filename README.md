@@ -72,7 +72,8 @@ check the DATABASE_URL in .env file
 
 
 2. Login User
-<img width="1440" alt="Screenshot 2022-10-15 at 12 02 42 PM" src="https://user-images.githubusercontent.com/77909856/195973188-1bbf5bad-d16c-4eef-a60b-73cfcf1538bf.png">
+
+<img width="1254" alt="Screenshot 2022-11-07 at 4 37 42 PM" src="https://user-images.githubusercontent.com/77909856/200295857-d1fd2128-bcf0-4af3-90c4-07bd517b4aa2.png">
 
 
 
